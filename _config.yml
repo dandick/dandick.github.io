@@ -108,7 +108,7 @@ author:
   uri              :
   home             : "https://danieljdick.com" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
-  codepen          :"danieljdick"
+  codepen          : "danieljdick"
   dribbble         :
   flickr           :
   facebook         : "daniel.j.dick"
