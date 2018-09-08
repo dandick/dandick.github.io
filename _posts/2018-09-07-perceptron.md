@@ -5,6 +5,7 @@ tags: [machine learning, data science, neural networks]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Machine Learning, Perceptron, Data Science"
+mathjax: "true"
 ---
 
 # H1 Heading
