@@ -105,7 +105,7 @@ author:
   bio              : "Data Science Portfolio"
   location         : "Fresno, CA"
   email            :
-  uri              :
+  uri              : "https://danieljdick.com"
   home             : "https://danieljdick.com" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          : "danieljdick"
