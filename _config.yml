@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel J. Dick"
-  avatar           : "/images/DanEileenDavid.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/DanEileenDavid.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Fresno, CA"
   email            :
