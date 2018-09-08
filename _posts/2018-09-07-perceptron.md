@@ -1,5 +1,5 @@
 ---
-title: Machine Learning Project: Perceptron"
+title: "Machine Learning Project: Perceptron"
 date: 2018-09-06
 tags: [machine learning, data science, neural networks]
 header:
