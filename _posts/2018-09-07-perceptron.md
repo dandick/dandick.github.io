@@ -44,12 +44,15 @@ Python code block:
 
 R code block:
 ```r
-[library(tidyverse)
+library(tidyverse)
 df <- read_csv("some_file.csv")
 head(df)
 ```
 
 Here's some inline code `x+y`
+
+Hereis an images
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
 
 Here's another using Kramdown, Ruby format that Jeckyll users
