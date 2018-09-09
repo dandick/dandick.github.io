@@ -14,7 +14,7 @@ One goal I have is to begin by studying each network in [Asimov Institute's](htt
 
 One thing I appreciate about so many people in this field is their passion to share knowledge for the greater good of all.  Often you hear Ted talks not only about amazing things impossible until recently that happening now or are coming in the very near future, but many share concerns, potential dangers, how to avert those risks, and how to encourage this technology to grow in the direction of extending the abilities of people rather than replacing people.  Many work not on eliminating doctors but helping doctors save lives, for instance by recognizing cancer sooner, detecting strokes sooner, detecting pneumonia and saving lives.
 
-# H2 The Neural Network Zoo as a Rubric
+# The Neural Network Zoo as a Rubric
 
 When I want to make sure I have learned something well, I like to create a rubric or a checklist.  And I have found [Asimov Institute's chart of neural nets](https://asimovinstitute.org/neural-network-zoo/) to be an excellent rubric.  But I have also found their website to provide an excellent, short, concise introduction to each kind of network from Frank Rosenblatt's original paper on the Perceptron written in 1958 to Hopfield Networks, Boltzmann machines, Markov Chains, Autoencoders, and all that you see in the chart above.
 
