@@ -3,7 +3,7 @@ title: "Azimov Institute's Chart of Neural Networks"
 date: 2018-09-08
 tags: [machine learning, data science, neural networks]
 header:
-  image: "/images/perceptron/neuralnetworks.png"
+  image: "/images/perceptron/AsimovNNMini.PNG"
 excerpt: "Looking at Asimov Institutes Amazing Chart of Neural Networks"
 mathjax: "true"
 ---
